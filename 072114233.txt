@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <style>
+      table, th, td{border:1px solid black;}
+    </style>
+  <body>
+    <h2>072114233 黃荷心的履歷表</h2>
+    <!--表格 table-->
+    <table style="width:100">
+      <!--一行 tr-->
+      <tr>
+        <th>姓名:</th>
+        <td>黃荷心</td>
+      </tr>
+      <tr>
+        <th>性別:</th>
+        <td>女</td>
+      </tr>
+      <tr>
+        <th>年齡:</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>學歷:</th>
+        <td>國立台北護理健康大學就學中</td>
+      </tr>
+    <tr>
+        <th>連絡電話:</th>
+        <td>0912345678</td>
+      </tr>
+      <tr>
+        <th>住址:</th>
+        <td>臺北市內江街89號</td>
+      </tr>
+      <tr>
+        <th>興趣:</th>
+        <td>學習新事物，閱讀課外讀物</td>
+        <tr>
+        <th>工作經驗:</th>
+        <td>健康事業產業服務人員待過半年</td>
+      </tr>
+          <tr>
+        <th rowspan="2">自傳:</th>
+            <td>用功學習的好學生，拿過無數次的進步獎，在學業上願意進一份心力學習求得好成績</td>
+            </tr>
+      <tr>
+        <td>同樣的也會將這份心力放在工作上</td>
+      </tr>
